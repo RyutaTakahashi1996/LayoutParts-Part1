@@ -1,1 +1,48 @@
 @charset "UTF-8";
+.sub-b {
+  display: table;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.main--area .sub-b:first-child {
+  margin-top: 0;
+}
+
+.common-b {
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}
+
+.red-b {
+  width: 300px;
+  background: #ff7b7b;
+}
+
+.blue-b {
+  background: #7b86ff;
+}
+
+.yellow-b {
+  width: 300px;
+  background: #fff27b;
+}
+
+.green-b {
+  background: #7bff91;
+}
+
+.pink-b {
+  width: 400px;
+  background: #ff7be2;
+}
+
+.orange-b {
+  width: 400px;
+  background: #ffc67b;
+}
+
+.light-blue-b {
+  background: #7bf2ff;
+}
