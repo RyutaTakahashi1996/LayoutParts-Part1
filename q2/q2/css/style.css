@@ -16,3 +16,11 @@
   padding: 10px;
   background: #d2b48c;
 }
+
+.card1-3:first-child {
+  margin-left: 0;
+}
+
+.card1-3:last-child {
+  margin-right: 0;
+}
